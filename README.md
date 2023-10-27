@@ -15,6 +15,9 @@ to check git version use the command : git --version  <br>
 <li>modified: changed</li>
 <li>staged : file ready to be commited</li>
 <li>unmodified : unchanged </li></p>
+<h1>Add and Commit</h1>
+<li>add - adds new or changed files in your working directory to the git staging area : git add <filename> </li>
+<li>commit- it is the record of change : git commit -m "commit message" </li>
 
 <h1>file operation</h1>
 <li>cd location , ls -a : list hidden filders</li>
