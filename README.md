@@ -19,6 +19,7 @@ to check git version use the command : git --version  <br>
 <li>add - adds new or changed files in your working directory to the git staging area : git add <filename> </li>
 <ul><li>git add .  : add all files</li></ul>
 <li>commit- it is the record of change : git commit -m "commit message" </li>
+<li>push - upload local repo content to remot repo : git push origin main</li>
 
 <h1>file operation</h1>
 <li>cd location , ls -a : list hidden filders</li>
