@@ -9,7 +9,7 @@ to check git version use the command : git --version  <br>
 <li>git config --list"</li>
 <h1>Clone and status</h1>
 <li>Clone- the repo on our local machine : git clone <link> </li>
-<li>Status- display the status of the code : git status <li>
+<li>Status- display the status of the code : git status </li>
 <p><li>untracked: new files that git doesnt yet track</li>
 <li>modified: changed</li>
 <li>staged : file ready to be commited</li>
