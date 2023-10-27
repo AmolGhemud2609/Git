@@ -10,4 +10,5 @@ to check git version use the command : git --version  <br>
 <h1>Clone and status</h1>
 <li>Clone- the repo on our local machine : git clone <link> </li>
 <li>Status- display the status of the code : git status </li>
-
+<h1>file operation</h1>
+<li>cd location , ls -a : list hidden filders</li>
