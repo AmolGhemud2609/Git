@@ -10,8 +10,8 @@ to check git version use the command : git --version  <br>
 <h1>Clone and status</h1>
 <li>Clone- the repo on our local machine : git clone <link> </li>
 <li>Status- display the status of the code : git status </li>
-Change (modified) / new file (untracked) => add (staged ) => commit (unchanged)
-<p><li>untracked: new files that git doesnt yet track</li>
+<p>Change (modified) / new file (untracked) => add (staged ) => commit (unchanged)
+<li>untracked: new files that git doesnt yet track</li>
 <li>modified: changed</li>
 <li>staged : file ready to be commited</li>
 <li>unmodified : unchanged </li></p>
